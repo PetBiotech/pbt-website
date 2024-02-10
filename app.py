@@ -45,7 +45,7 @@ from flask import flash, session
 app = Flask(__name__)
 
 app.config['SECRET_KEY']= 'anandandkaustubh'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://pbt:utpal@101@localhost/websiteDB'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://pbt:utpal%40101@localhost/websiteDB'
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://admin:Petbiotech12@pbt-portal.czufb7vlwyub.ap-south-1.rds.amazonaws.com/ebdb'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
