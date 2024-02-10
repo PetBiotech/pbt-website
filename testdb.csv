@@ -1,0 +1,24 @@
+ct_id1,Canine,Respiratory Panel,Throat swab+nasal discharge swab+eye discharge swab,10
+ct_id2,Canine,Neurological panel,"1ml CSF, or 0.2 ml tissue, 2ml blood",10
+ct_id3,Canine,Gastrointestinal panel,"3 rectal swabs, fecal sample(1ml)",10
+ct_id4,Canine,Haemoprotozoan/Blood parasites (Tick Panel),"2 ml whole blood in EDTA (purple top) tube, or 0.2 ml synovial fluid, or tick",10
+ct_id5,Canine,Babesia Panel Test (o4),"2 ml whole blood in EDTA (purple top) tube, or 0.2 ml synovial fluid, or tick",10
+ft_id1,Feline,Neurological Panel,"1ml CSF, or 0.2 ml tissue",10
+ft_id2,Feline,Respiratory Panel,Throat swab Blood+nasal discharge swab+eye discharge swab,10
+ft_id3,Feline,Gastrointestinal panel,"1 ml feces, or 3 standard swabs with tips well-coated with diarrhea, or 3 rectal swabs from a cat with active diarrhea.",10
+ft_id4,Feline,Feline Panel,2 ml whole blood in EDTA (purple top) tube.,10
+at_id1,Avian,Infectious Diseases Panel I,0.5-1ml whole blood in EDTA (purple top) tube,10
+at_id2,Avian,Infectious Diseases Panel II,0.5ml whole blood in EDTA (purple top) tube,10
+at_id3,Avian,Histoplasmosis,"0.5 ml whole blood in EDTA (purple top) tube, or urine, or sputum, or bronchoalveolar lavage, or feces or fecal swab, or 0.2 ml fresh frozen or foed issue, or environmental surface swab.",10
+at_id4,Avian,Aspergillus flavus,0.5ml whole blood in EDTA (purple top) tube,10
+at_id5,Avian,Aspergillus fumigatus,0.5ml whole blood in EDTA (purple top) tube,10
+at_id6,Avian,Salmonella gallinarum,0.5ml whole blood in EDTA (purple top) tube,10
+at_id7,Avian,Salmonella paragallinarum,0.5ml whole blood in EDTA (purple top) tube,10
+at_id8,Avian,Mycobacterium tuberculosis,0.5ml whole blood in EDTA (purple top) tube,10
+at_id9,Avian,Mycobacterium avium,0.5ml whole blood in EDTA (purple top) tube,10
+at_id10,Avian,Chlamydia psitacci,"Cloacal swab, or 0.2 mi feces, or 0.5 ml whole blood in EDTA (purple top) tube.",10
+at_id11,Avian,Cryptococcosis,"Cloacal swab, or 0.2 mi feces, or 0.5 ml whole blood in EDTA (purple top) tube or 0.2 ml CSF, or 0.2 ml fresh, frozen or fixed issue",10
+at_id12,Avian,Coccidiosis,0.5ml whole blood in EDTA (purple top) tube,10
+at_id13,Avian,Aspergillus niger,0.5ml whole blood in EDTA (purple top) tube,10
+at_id14,Avian,PBFD,0.5ml whole blood in EDTA (purple top) tube,10
+at_id15,Avian,INDV,0.5ml whole blood in EDTA (purple top) tube,10
